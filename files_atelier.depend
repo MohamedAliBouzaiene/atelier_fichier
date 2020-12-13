@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1606941884 source:d:\c++\files_atelier\main.cpp
+	<iostream>
+	"fichier.h"
+
+1606941448 d:\c++\files_atelier\fichier.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+
+1606941591 source:d:\c++\files_atelier\fichier.cpp
+	"fichier.h"
+
